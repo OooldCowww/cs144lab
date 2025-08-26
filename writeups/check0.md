@@ -1,7 +1,7 @@
 Checkpoint 0 Writeup
 ====================
 
-My name: Aditya Tadimeti
+My name: Zefeng Fei
 
 My SUNet ID: tadimeti
 
